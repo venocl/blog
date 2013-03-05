@@ -1,1 +1,3 @@
 auto: true
+exclude: Gemfile, Gemfile.lock, README.md
+pygments: true
